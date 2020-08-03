@@ -1,1 +1,3 @@
-# Analysis-of-wildfire
+# Analysis of wildfire
+
+This paper aims to predict if the forest wildfires in the state of North Dakota are malicious or not, basing our analysis on some of the features of the fires. This work intends to report the results obtained by applying some classifiction methods, in order to learn them and find the best classifier for this porpuse among them. Wildfires are a serious issue for our world, expecially during the past few years, when milions and milions of acres have burned irreparably. Besides natural causes, humans cause a huge amount of wildfires, some due to indirected causes, some others due to reckless behaviours and the most severe ones due to arsons. For these reasons is really important to the States to know which of them are intentional in order to take action against.
